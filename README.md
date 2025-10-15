@@ -1,5 +1,5 @@
 ![Header](./github-header-banner.png)
-##I’m **Ralf G. Neis**, a **Computer Science student** passionate about **gaming**, **game development**, **web design**, and **UI design**.  
+# I’m **Ralf G. Neis**, a **Computer Science student** passionate about **gaming**, **game development**, **web design**, and **UI design**.  
 
 ---
 
