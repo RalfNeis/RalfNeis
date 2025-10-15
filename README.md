@@ -1,6 +1,5 @@
 ![Header](./github-header-banner.png)
-I’m **Ralf G. Neis**, a **Computer Science student** passionate about **gaming**, **game development**, **web design**, and **UI design**.  
-This portfolio showcases my projects, designs, and the skills I’ve developed as I continue my journey in technology and creativity.
+##I’m **Ralf G. Neis**, a **Computer Science student** passionate about **gaming**, **game development**, **web design**, and **UI design**.  
 
 ---
 
