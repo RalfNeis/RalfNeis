@@ -35,8 +35,11 @@ My goal is to become a **game developer** capable of building engaging experienc
 
 | Project | Description | Technologies |
 |----------|--------------|---------------|
-| 🎮 **ALAMAT NI NEO** | A 2D mini adventure game. | Java |
-| 🏧 **ATM NG MGA POGI** | An ATM machine simulation that demonstrates basic banking operations and file handling in C++. | C++ |
+|  **ALAMAT NI NEO** | A 2D mini adventure game. | Java |
+|  **ATM NG MGA POGI** | An ATM machine simulation that demonstrates basic banking operations and file handling in C++. | C++ |
+|  **KusinaSeekr** | Designing a web platform for discovering and sharing local Filipino recipes. | Web Design / Front-End Development |
+|  **Vehicle Counter AI** | Developing an AI system that automates vehicle counting and categorization through live camera feeds. | Artificial Intelligence / Data Analytics |
+|  **Hiro AI** | A custom, web-based AI assistant powered by Google's Gemini API. | Artificial Intelligence |
 
 ---
 
@@ -44,5 +47,4 @@ My goal is to become a **game developer** capable of building engaging experienc
 
 | Project | Description | Focus |
 |----------|--------------|--------|
-| 🍳 **KusinaSeekr** | Designing a web platform for discovering and sharing local Filipino recipes. | Web Design / Front-End Development |
-| 🚗 **Vehicle Counter AI** | Developing an AI system that automates vehicle counting and categorization through live camera feeds. | Artificial Intelligence / Data Analytics |
+|  **KalooKonek** | A Web-Based Identification System for Senior Citizens of Caloocan City with Integrated Barangay Information Portal and QR Code Functionality. | Web Design / Front-End Development |
