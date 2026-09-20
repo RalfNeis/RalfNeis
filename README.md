@@ -1,50 +1,74 @@
-![Header](./github-header-banner.png)
-# I’m **Ralf G. Neis**, a **Computer Science student** passionate about **gaming**, **game development**, **web design**, and **UI design**.  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RalfNeis.RalfNeis" />
 
----
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Ralf+NEis;" />
+</h1>
 
-## 🚀 About Me
+<h3 align="center">A passionate game / web developer from Philippines </h3>
 
-Hi there! 👋  
-I’m a **Computer Science student** who enjoys bringing ideas to life through **code** and **design**. Whether it’s building games or crafting user-friendly web interfaces, I’m always exploring new ways to merge creativity and functionality.
+<br/>
 
-Currently, I’m focused on:
-- 🎮 Game Development and Design  
-- 💡 Front-End Web Development  
-- 🧠 Exploring AI Projects  
-- 🎨 User Interface & Experience Design
+<div align="center">
+ 
+ 🔭 I’m currently working on **Respiscan**
+ 
+ 🌱 I’m currently learning **Game Development, Web Design / Development, Artificial Intelligence**
 
-My goal is to become a **game developer** capable of building engaging experiences that people enjoy playing.
+⚡ Fun fact **High spice tolerance, Low sour tolerance**
 
----
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:neisralfg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ralf-neis" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="neisportfolio.netlify.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-## 🧠 Skills
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,cs,cpp,django,gmail,ai,netlify,unity" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,blender,discord,eclipse,linkedin,tailwind,visualstudio,vite,vercel,vscode" /><br>
+</div>
 
-**Languages:**  
-`C` • `C++` • `Java` • `Python` • `JavaScript` • `HTML` • `CSS`
+<br/>
+<hr/>
 
-**Tools & Frameworks:**  
-`Git` • `VS Code` • `Figma` • `Canva` • `Unity`  
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RalfNeis/RalfNeis/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-**Areas of Interest:**  
-🎮 Game Development • 🌐 Web Design • 🎨 UI Design • 🤖 Artificial Intelligence
+<hr/>
 
----
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-## 🧩 Featured Projects
+<br/><br/>
 
-| Project | Description | Technologies |
-|----------|--------------|---------------|
-|  **ALAMAT NI NEO** | A 2D mini adventure game. | Java |
-|  **ATM NG MGA POGI** | An ATM machine simulation that demonstrates basic banking operations and file handling in C++. | C++ |
-|  **KusinaSeekr** | Designing a web platform for discovering and sharing local Filipino recipes. | Web Design / Front-End Development |
-|  **Vehicle Counter AI** | Developing an AI system that automates vehicle counting and categorization through live camera feeds. | Artificial Intelligence / Data Analytics |
-|  **Hiro AI** | A custom, web-based AI assistant powered by Google's Gemini API. | Artificial Intelligence |
+<hr/>
 
----
+<br/>
 
-## 🧱 Currently Working On
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-| Project | Description | Focus |
-|----------|--------------|--------|
-|  **KalooKonek** | A Web-Based Identification System for Senior Citizens of Caloocan City with Integrated Barangay Information Portal and QR Code Functionality. | Web Design / Front-End Development |
+<br/>
